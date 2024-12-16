@@ -34,8 +34,3 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-#mock-data
-/src/data/
-
-#model
-/src/model
